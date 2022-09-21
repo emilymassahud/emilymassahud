@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @emilymassahud
+- 👀 I’m interested in scientific programming
+- 🌱 I’m currently learning more about web development, more specifically HTML and CSS.
